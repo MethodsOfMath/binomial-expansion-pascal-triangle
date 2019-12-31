@@ -1,2 +1,1 @@
-# pascal-triangle
-Binomial Expansion using Pascal's Triangle
+# Binomial Expansion using Pascal's Triangle
